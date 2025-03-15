@@ -22,7 +22,7 @@ The environment is built over Python 3.12. Create and activate environment a vir
 
 ```bash
 python -m venv .venv # .venv is the name of the environment
-. /.venv/bin/activate
+. .venv/bin/activate
 ```
 
 cd to the source folder and install requirements
