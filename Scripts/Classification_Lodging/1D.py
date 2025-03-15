@@ -6,9 +6,7 @@ from sklearn.metrics import f1_score  # Import Macro-F1 scoring function
 from pathlib import Path
 from natsort import natsorted
 import os
-import cleanqc
 import kmeans1d
-from instruments.locatedInstrument import located_instrument
 import pymongo
 from gridfs import GridFS
 from datetime import datetime
