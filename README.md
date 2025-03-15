@@ -17,4 +17,15 @@ These findings demonstrate the effectiveness of LiDAR-based approaches, particul
 
 ## Setting up the environment
 
-The environment is built over Python 3.12.
+The environment is built over Python 3.12. Create and activate environment a virtual environment,
+
+```bash
+python -m venv .venv # .venv is the name of the environment
+. /.venv/bin/activate
+```
+
+cd to the source folder and install requirements
+
+```bash
+pip install -r requirements.txt
+```
