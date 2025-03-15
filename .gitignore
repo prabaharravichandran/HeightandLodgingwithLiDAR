@@ -1,0 +1,7 @@
+/venv/
+/venv/bin/
+/venv/etc/
+/venv/lib/
+/venv/share/
+/venv/.gitignore
+/venv/pyvenv.cfg

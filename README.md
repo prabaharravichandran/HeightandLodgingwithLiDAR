@@ -9,3 +9,12 @@ Four data processing methods—height distribution vector, aerial projection, or
 For lodging estimation, a progressive fine-tuning approach was used to iteratively categorize lodging severity into 2 to 9 classes. The aerial projection method consistently outperformed other approaches across all metrics and class numbers, achieving the highest accuracy (up to 98.76%), Quadratic Weighted Kappa (QWK, 0.97), and Macro-F1 scores (up to 98.51%), particularly excelling in 2- and 3-class scenarios. The 3D method demonstrated competitive performance, particularly in Macro-F1 and QWK, but slightly lagged behind the aerial projection method. In contrast, the height distribution vector and orthographic projection methods generally exhibited lower performance, especially with higher class numbers (5 and 9), highlighting their limited scalability compared to the aerial projection and voxelized spatial grid methods.
 
 These findings demonstrate the effectiveness of LiDAR-based approaches, particularly aerial projection, for high-throughput phenotyping in spring wheat, offering robust methods to enhance trait estimation for breeding programs.
+
+<div align="center">
+  <img src="https://prabahar.s3.ca-central-1.amazonaws.com/static/articles/Phenocart.jpg" alt="Phenocart" width="3000">
+  <p><i>Figure 1: UFPS that includes RTK base station and wheeled robot controlled by remote controller.</i></p>
+</div>
+
+## Setting up the environment
+
+The environment is built over Python 3.12.
