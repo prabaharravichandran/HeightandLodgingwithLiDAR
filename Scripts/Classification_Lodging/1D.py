@@ -281,7 +281,7 @@ model_save_path = '/gpfs/fs7/aafc/phenocart/PhenomicsProjects/UFPSGPSCProject/6_
 # Create the directory if it doesn't exist
 os.makedirs(model_save_path, exist_ok=True)
 
-for rep in range(1, 26):  # Run repetitions
+for rep in range(1, 51):  # Run repetitions
     print(f"Starting Repetition {rep}...")
 
     rep_accuracies = []  # Store accuracies for this repetition
