@@ -1,0 +1,25 @@
+{
+    "location": "Brandon",
+    "plot": 9,
+    "date": 240710,
+    "cultivar": "Kane ",
+    "flowering": 50.0,
+    "greenseeker": NaN,
+    "height": NaN,
+    "lodging": NaN,
+    "maturity": 91.0,
+    "protein": NaN,
+    "year": 2024,
+    "yield": NaN,
+    "lidar_id": "lidar.npy",
+    "weather_id": "weather.npy",
+    "seedingdate": 240529,
+    "nirimage_ids": [
+        "nir_1.tif",
+        "nir_2.tif"
+    ],
+    "rgbimage_ids": [
+        "rgb_1.tif",
+        "rgb_2.tif"
+    ]
+}

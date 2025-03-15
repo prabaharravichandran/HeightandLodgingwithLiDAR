@@ -1,0 +1,29 @@
+{
+    "location": "Saskatoon",
+    "plot": 82,
+    "date": 240718,
+    "cultivar": "Laura ",
+    "flowering": 60.0,
+    "greenseeker": 0.85,
+    "height": 85.6,
+    "lodging": 0,
+    "maturity": 99.0,
+    "protein": NaN,
+    "year": 2024,
+    "yield": 3156.622516556291,
+    "lidar_id": "lidar.npy",
+    "weather_id": "weather.npy",
+    "seedingdate": 240517,
+    "nirimage_ids": [
+        "nir_1.tif",
+        "nir_2.tif",
+        "nir_3.tif",
+        "nir_4.tif"
+    ],
+    "rgbimage_ids": [
+        "rgb_1.tif",
+        "rgb_2.tif",
+        "rgb_3.tif",
+        "rgb_4.tif"
+    ]
+}

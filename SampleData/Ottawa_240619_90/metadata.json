@@ -1,0 +1,25 @@
+{
+    "location": "Ottawa",
+    "plot": 90,
+    "date": 240619,
+    "cultivar": "AC Cadillac ",
+    "flowering": 52.0,
+    "greenseeker": 0.73,
+    "height": 66,
+    "lodging": NaN,
+    "maturity": 89.0,
+    "protein": NaN,
+    "year": 2024,
+    "yield": 3648.0555555555557,
+    "lidar_id": "lidar.npy",
+    "weather_id": "weather.npy",
+    "seedingdate": 240504,
+    "nirimage_ids": [
+        "nir_1.tif",
+        "nir_2.tif"
+    ],
+    "rgbimage_ids": [
+        "rgb_1.tif",
+        "rgb_2.tif"
+    ]
+}

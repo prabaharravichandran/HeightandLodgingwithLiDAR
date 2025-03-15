@@ -1,0 +1,37 @@
+{
+    "date": 240730,
+    "location": "Ottawa",
+    "plot": 67,
+    "cultivar": "AAC Cameron ",
+    "flowering": 52.0,
+    "greenseeker": 0.16,
+    "height": 99,
+    "lodging": 0.0,
+    "maturity": 89.0,
+    "protein": 14.53,
+    "year": 2024,
+    "yield": 2407.777777777778,
+    "lidar_id": "lidar.npy",
+    "seedingdate": 240504,
+    "weather_id": "weather.npy",
+    "nirimage_ids": [
+        "nir_1.tif",
+        "nir_2.tif",
+        "nir_3.tif",
+        "nir_4.tif",
+        "nir_5.tif",
+        "nir_6.tif",
+        "nir_7.tif",
+        "nir_8.tif"
+    ],
+    "rgbimage_ids": [
+        "rgb_1.tif",
+        "rgb_2.tif",
+        "rgb_3.tif",
+        "rgb_4.tif",
+        "rgb_5.tif",
+        "rgb_6.tif",
+        "rgb_7.tif",
+        "rgb_8.tif"
+    ]
+}
