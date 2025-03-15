@@ -1,7 +1,7 @@
 # Precision Phenotyping in Wheat: LiDAR-Based Plant Height and Lodging Estimation Using Unmanned Ground Vehicle
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![PyPI - Python Version](https://img.shields.io/badge/python-3.12-blue)
+[![PyPI - Python Version](https://img.shields.io/badge/python-3.12.8-blue)](https://docs.python.org/release/3.12.8/)
 
 Accurate phenotyping of wheat traits supports breeding innovations and strengthens research methodologies in crop sciences. This study focuses on Light Detection and Ranging  (LiDAR)-based evaluation of crop canopy height and lodging in spring wheat using unmanned ground vehicles (UGVs). The University of Saskatchewan Field Phenotyping Systems (UFPS) was deployed across six research stations in Canada during the 2023 and 2024 field seasons. A total of 90 plots, representing 30 historical wheat cultivars, were planted in a Randomized Complete Block Design (RCBD), with LiDAR data collected at selective growth stages at all locations.
 
